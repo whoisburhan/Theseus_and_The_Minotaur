@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 05cae799f31c2e04491f1bd52c8cd9ad, type: 3}
+  m_Name: Level No - 1
+  m_EditorClassIdentifier: 
+  PlayerStartingPositionIndex: 157
+  EnemyStartingPositionIndex: 127
+  ExitPositionIndex: 144
+  GridElementBarriers:
+  - GridElementIndex: 111
+    Paths: 00000100
+  - GridElementIndex: 112
+    Paths: 00000100
+  - GridElementIndex: 113
+    Paths: 00000100
+  - GridElementIndex: 125
+    Paths: 00010000
+  - GridElementIndex: 126
+    Paths: 01000001
+  - GridElementIndex: 127
+    Paths: 00000101
+  - GridElementIndex: 128
+    Paths: 00010001
+  - GridElementIndex: 129
+    Paths: 01000100
+  - GridElementIndex: 140
+    Paths: 00010000
+  - GridElementIndex: 141
+    Paths: 01000000
+  - GridElementIndex: 142
+    Paths: 00010101
+  - GridElementIndex: 143
+    Paths: 01000000
+  - GridElementIndex: 144
+    Paths: 00000101
+  - GridElementIndex: 155
+    Paths: 00010000
+  - GridElementIndex: 156
+    Paths: 01000100
+  - GridElementIndex: 157
+    Paths: 00000101
+  - GridElementIndex: 158
+    Paths: 00010100
+  - GridElementIndex: 159
+    Paths: 01000001
